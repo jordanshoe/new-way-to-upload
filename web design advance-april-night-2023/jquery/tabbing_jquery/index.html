@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tabbing</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    
+        <!-- trigger elements -->
+        <div class="button-wrapper">
+            <button id="default" class="tablink" onclick="openCity('london')">London</button>
+            <button id="btn-paris" class="tablink" onclick="openCity('paris')">Paris</button>
+            <button id="btn-tokyo" class="tablink" onclick="openCity('tokyo')">Tokyo</button>
+            <button id="btn-oslo" class="tablink" onclick="openCity('oslo')">Oslo</button>
+        </div>
+
+        <!-- content -->
+        <div class="tabcontent" id="london">
+            <h2>London</h2>
+            <p>London is the capital of England</p>
+        </div>
+        <div class="tabcontent" id="paris">
+            <h2>Paris</h2>
+            <p>Paris is the capital of France</p>
+        </div>
+        <div class="tabcontent" id="tokyo">
+            <h2>Tokyo</h2>
+            <p>Tokyo is the capital of Japan</p>
+        </div>
+        <div class="tabcontent" id="oslo">
+            <h2>Oslo</h2>
+            <p>Oslo is the capital of Norway</p>
+        </div>
+
+
+
+
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="assets/js/javascript.js"></script>
+</body>
+</html>

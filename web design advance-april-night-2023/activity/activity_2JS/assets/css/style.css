@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 5px;
+    border: none;
+    color: #fff;
+}
+.button-wrapper{
+    margin-bottom: 10px;
+    text-align: left;
+}
+/* buttons */
+#black{
+    background: #000;
+}
+#red{
+    background: red;
+}
+#blue{
+    background: blue;
+}
+#green{
+    background: green;
+}
+
+/* contents */
+.item-wrapper{
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    background: rgba(0, 0, 0, .2);
+}
+.item-wrapper > div{
+    flex: 1 1 40%;
+    height: 40px;
+    margin: 0 5px 5px 0;
+    padding-top: 10px;
+    text-align: left;
+    text-transform: capitalize;
+}
+
+.red{
+    background: red;
+}
+.blue{
+    background: blue;
+}
+.green{
+    background: green;
+}

@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.button-wrapper{
+    display: flex;
+}
+.button-wrapper > button{
+    flex: 1;
+    padding: 1em;
+    background: #555;
+    color: #fff;
+    border: none;
+    transition: 1s ease;
+}
+.button-wrapper button:hover{
+    background: #eaeaea;
+    color: #555;
+    cursor: pointer;
+}
+.tabcontent{
+    text-align: center;
+    padding: 100px;
+    /* display: none; */
+
+}
+#london{
+    background: tomato;
+}
+#paris{
+    background: teal;
+}
+#tokyo{
+    background: yellowgreen;
+}
+#oslo{
+    background: thistle;
+}

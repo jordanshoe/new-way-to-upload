@@ -1,0 +1,120 @@
+outline:
+    I- Javascript for Web Designers
+        a. discuss what is Javascript
+        b. Discuss File Structure
+        c. Create a template
+    II- How to add Javascript to webpage
+        a. script tag = internal script (apply in head or body) 
+        b. script src = external script
+        c. console = for debugging (using Inspect Element)
+    III- How do we run
+        a. comments
+        
+    IV- What Javascript Can do
+        a. Change HTML content
+        b. Change HTML Attribute Values
+        c. Change of Styles (CSS)
+    
+    V- Display Possibilities
+        a. innerHTML
+        b. Document.write () = will not use
+        c. window.alert()
+        d. console.log()
+
+    VI - JS Basics
+        a. Variables
+        b. Data Types
+        c. Operators
+        d. Conditional statements
+        e. Loops
+        f. functions
+        g. events
+        h. DOM
+            . finding HTML elements
+            . changing HTML elements
+            . adding HTML elements
+            . deleting HTML elements
+        i. activity1
+        j. todo list
+        k. tabbing
+        l. fullscreen nav
+        m. modal
+
+    VII - JQuery Basics
+        a. Intro to JQuery
+            . What is JQuery
+            . Adding Jquery to webpage
+            . Jquery Syntax
+            . Jquery Selectors
+            . Jquery events
+        b. JQuery Effects
+            . Jquery Hide/show/toggle
+            . jquery fade Effects
+            . Jquery slide Effects
+            . Jquery animate Effects
+            . stop() method
+            . jquery callback functions
+            . jquery chaining
+        c. activity
+            . hide/show
+            . accordion
+        d. Jquery HTML
+            . jquery get and Set
+                -text()
+                -html()
+                -val()
+                -attr()
+            . Jquery add
+            . jquery empty
+            . jquery remove
+            . jquery css classes
+            . jquery css() method
+            . jquery dimensions
+        e. Jquery traversing
+            . What is traversing
+            . Jquery ancestors
+            . jquery descendants
+            . jquery siblings
+            . jquery filtering
+
+        
+Project outline Example:
+    1. 3 main topics
+        1. Travel Cafe
+        2. Gadgets Review
+        3. Bakeshop Online
+
+    2. Travel Cafe 
+        - logo name
+        - content
+            - hotel
+            - restaurant
+                -cheaper
+                -luxury
+        - audience
+            -young traveller
+    3. download photos
+            -wireframe
+            -mockup
+            -prototype
+    4. color theme and scheme
+    5.  landing page 
+
+        
+
+
+
+
+
+
+
+Portfolio Presentation:
+    -Introduce yourself
+    -Introduce what your website is all about.
+    -tour us around the website(wireframe,mockup, prototype, and code)
+    -try to tell the functionality that you've done
+    -hardest part
+    -favorite part
+    -overall experience
+
+
